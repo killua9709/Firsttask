@@ -11,6 +11,6 @@ int main()
 
     cout << a++;
    
-
+    //ang gimochi
    
 }
