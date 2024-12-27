@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\NBC_Projects\\Project1\\",
+  "WorkspaceRootPath": "D:\\NBC_Projects\\Firsttask\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D3F451B-AE35-496D-AA09-26C9BA07FA9B}|Project1.vcxproj|D:\\NBC_Projects\\Project1\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5D3F451B-AE35-496D-AA09-26C9BA07FA9B}|Project1.vcxproj|D:\\NBC_Projects\\Firsttask\\Project1\\Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5D3F451B-AE35-496D-AA09-26C9BA07FA9B}|Project1.vcxproj|solutionrelative:Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Exam.cpp",
-              "DocumentMoniker": "D:\\NBC_Projects\\Project1\\Exam.cpp",
+              "DocumentMoniker": "D:\\NBC_Projects\\Firsttask\\Project1\\Exam.cpp",
               "RelativeDocumentMoniker": "Exam.cpp",
-              "ToolTip": "D:\\NBC_Projects\\Project1\\Exam.cpp",
+              "ToolTip": "D:\\NBC_Projects\\Firsttask\\Project1\\Exam.cpp",
               "RelativeToolTip": "Exam.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-23T00:55:49.239Z",
               "EditorCaption": ""
